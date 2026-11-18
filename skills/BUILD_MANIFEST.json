@@ -1,0 +1,51 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "capability-destinations.json": "1b5a9535bb641b533ba12fe9953423e16ba21fdcd28e4efd88da7f3284c92197",
+    "commodity-basis/SKILL.md": "f0a2e8a33ae7365ae759f16709ed83e4610fd4f7e6c28eb5a8534c476146c212",
+    "commodity-cross-commodity/SKILL.md": "2da0907a675e6516ca8c607cfb840db686c9000dde8aff1dfb974ab2b08c117a",
+    "commodity-delivery-structure/SKILL.md": "64ee0bcead3cae11b2e4cc817872b4da84994761a5728b487ac33fb81097bdb9",
+    "commodity-fundamental-thesis/SKILL.md": "18d25fa66964d4d84031532b440090d6355fcbd91ce6760554281755314d888f",
+    "commodity-fx/SKILL.md": "7cf46b471d79fddbd9313384fc0883ecc15cfea86cc8e5e4844e531075d622b5",
+    "commodity-macro/SKILL.md": "83f15e3679f24119199196e7e073658b98071a47fe3e683fe546a645ec628ac1",
+    "commodity-metals-spread/SKILL.md": "7d5fa9063a98ae919cdd3f1b10be186e1ac8dee91c642b7d6f8d71c92b197e3d",
+    "commodity-oils/SKILL.md": "0c2c132465fcb92b5f367a8fea25e7158aa0ddbb07af71abdb192567f6f6c217",
+    "commodity-research-guide/SKILL.md": "05db1c245356836ea6c6e1a05bdb9a8c8e61aac6938d2f45ce96fe61659a328b",
+    "commodity-research-guide/references/capabilities/commodity-basis.md": "d78860f2f2869a6390ef9936b4017eee488420757726813c2ed13d2ff9691fb5",
+    "commodity-research-guide/references/capabilities/commodity-cross-commodity.md": "8941411efe9a637f157648b85a1b988d050a0c4f09150ae0c9198fdda38523ea",
+    "commodity-research-guide/references/capabilities/commodity-delivery-structure.md": "da49379ead32b496b880a2a9bf9e319c5970a9d9a664fc376ddcdf1accda3a79",
+    "commodity-research-guide/references/capabilities/commodity-fundamental-thesis.md": "5475b9147499191676c145db2caf3da733358b836bc638fdf6c2a454488359de",
+    "commodity-research-guide/references/capabilities/commodity-fx.md": "4d0b0d9b4cdc443dec6454605d08589641468a1637c16dc214e51587e5cafcb2",
+    "commodity-research-guide/references/capabilities/commodity-macro.md": "a0a15f2dfbf3f7830e1777cb957d754cd977d8d226910f892ee17aec75abefda",
+    "commodity-research-guide/references/capabilities/commodity-metals-spread.md": "11d1903d081bb60f452f530c48435c811be1af6f6c76435f49798822ce9ea676",
+    "commodity-research-guide/references/capabilities/commodity-oils.md": "39fab76892401bd29a93808808081629df243e0c2b4e50b228b12a02b90ac0e3",
+    "commodity-research-guide/references/capabilities/commodity-trade-risk.md": "7239ce6ffbb7943fbd10f761cd4814533e89e631d8a2e7fe32053e8f3b635d38",
+    "commodity-research-guide/references/capabilities/commodity-weather.md": "bfedeafef19416cf298abdd0c9f8edf218d5c91b22409bb4a40260baebb387ac",
+    "commodity-research-guide/references/capability-index.md": "f49c8ef08814bfac43eb4f1395027ae33556c5661f46adcf518472c74237e0d1",
+    "commodity-research-guide/references/cheatsheet.md": "d90c4ae6d4664da7b1c0d668b34e5213f4e02b359b299029fb6f53d48b5ca043",
+    "commodity-research-guide/references/glossary.md": "06c3e59c5d5b5cfaf7e47c7875299580530546e8f4330dae4de865db2a1b2df9",
+    "commodity-research-guide/references/overview.md": "d86f92b22fdbcb29d7bad94ac030e0e9761f8b90fcce803c73d3e0226672f970",
+    "commodity-trade-risk/SKILL.md": "76160dc88e1c19a2cabd91f187dcef14e6c0e7668eed3b7c307a390f6605df83",
+    "commodity-weather/SKILL.md": "8a50fccf19ccb022c7a75bfddabb6d653a2c24df3c038e2c69707cc6fb5886ca"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.kunpeng-futures",
+  "bundle_sha256": "798a34f2d248fb3841782852e72ac5584be999d63d5790014718a445de77df58",
+  "variant": "pack",
+  "run_id": "run-20261110-143951-da2ac1",
+  "decision": {
+    "schema_version": 1,
+    "requested": "pack",
+    "selected": "pack",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 11,
+    "promoted_count": 10,
+    "capability_count": 10,
+    "reasons": [
+      "用户显式选择 pack，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "single（1 个入口 + 10 张内部能力卡）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

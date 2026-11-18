@@ -1,0 +1,49 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.kunpeng-futures",
+  "router_entrypoint": "commodity-research-guide",
+  "entrypoint_count": 11,
+  "capability_count": 10,
+  "destinations": {
+    "cap.kunpeng.macro": {
+      "promoted_to": "commodity-macro",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-macro.md"
+    },
+    "cap.kunpeng.basis": {
+      "promoted_to": "commodity-basis",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-basis.md"
+    },
+    "cap.kunpeng.trade-risk": {
+      "promoted_to": "commodity-trade-risk",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-trade-risk.md"
+    },
+    "cap.kunpeng.oils": {
+      "promoted_to": "commodity-oils",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-oils.md"
+    },
+    "cap.kunpeng.weather": {
+      "promoted_to": "commodity-weather",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-weather.md"
+    },
+    "cap.kunpeng.fx": {
+      "promoted_to": "commodity-fx",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-fx.md"
+    },
+    "cap.kunpeng.metals-spread": {
+      "promoted_to": "commodity-metals-spread",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-metals-spread.md"
+    },
+    "cap.kunpeng.fundamental-thesis": {
+      "promoted_to": "commodity-fundamental-thesis",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-fundamental-thesis.md"
+    },
+    "cap.kunpeng.delivery-structure": {
+      "promoted_to": "commodity-delivery-structure",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-delivery-structure.md"
+    },
+    "cap.kunpeng.cross-commodity": {
+      "promoted_to": "commodity-cross-commodity",
+      "router_view": "commodity-research-guide/references/capabilities/commodity-cross-commodity.md"
+    }
+  }
+}

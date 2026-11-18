@@ -1,0 +1,4 @@
+interface:
+  display_name: "大宗商品平衡表维护"
+  short_description: "按授权范围更新已有平衡表，核对来源、期间和产能生效及公式传导"
+  default_prompt: "使用 $commodity-balance-sheet-maintain，将指定周报和月报的数据更新到现有平衡表，核对期间、产能生效边界和原表计算，保持授权范围以外内容不变。"
