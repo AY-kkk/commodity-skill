@@ -165,10 +165,3 @@ commodity-skill/
 ## 来源与使用边界
 
 各 Skill 保留来源与适用边界。历史教学参数与当前市场输入分开；现行规则、合约和费用按研究日核实。研究结论应给出验证条件，文件操作遵循用户授权，新增文件或工作表须先获同意。
-
-<details>
-<summary>构建来源与元数据范围</summary>
-
-原始研究入口与 10 个专业 Skill 的元数据记录生成工具为 [cangjie-tools v2.5.0](https://github.com/kangarooking/cangjie-skill)。`BUILD_MANIFEST.json` 与 `capability-destinations.json` 对应这 11 个入口；两个平衡表工作流为后续扩展。工具版本不代表本库版本。
-
-</details>
