@@ -6,7 +6,7 @@
 <p align="center"><strong>Research methods for AI agents working on fundamentals, price relationships and risk.</strong></p>
 <p align="center">Supply & demand · Macro drivers · Basis & spreads · Delivery structure · Trade risk</p>
 <p align="center">
-  <a href="#skill-catalog"><img src="https://img.shields.io/badge/Skills-13-16477b" alt="13 Skills"></a>
+  <a href="#skill-catalog"><strong>13 Skills</strong></a>
 </p>
 <p align="center">
   <a href="#start-with-a-research-question">Research tasks</a> ·

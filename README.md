@@ -6,7 +6,7 @@
 <p align="center"><strong>为 AI 助手提供基本面、价格关系与风险研究方法。</strong></p>
 <p align="center">产业供需 · 宏观驱动 · 基差价差 · 交割结构 · 贸易风险</p>
 <p align="center">
-  <a href="#skill-清单"><img src="https://img.shields.io/badge/Skills-13-16477b" alt="13 Skills"></a>
+  <a href="#skill-清单"><strong>13 Skills</strong></a>
 </p>
 <p align="center">
   <a href="#从研究问题开始">研究场景</a> ·
