@@ -7,13 +7,8 @@ metadata:
   cangjie.capability-id: cap.kunpeng.fundamental-thesis
   cangjie.capability-revision: 1
   cangjie.bundle-id: bundle.kunpeng-futures
-  cangjie.source-title: 大宗商品研究实习手册
 ---
 # 商品基本面与多空观点
-
-## R · 来源
-
-Jerry Ma《期货多空逻辑》（清华大学出版社，2020）第 3–4 章讨论周期、产业环节和供需平衡，第 6–7 章从利润、开工和库存验证价格判断，第 9 章区分估值与驱动，第 15 章提供需要重新审视观点的现象。第 4.1 节对库存消费比的分子分母有两种相反表述，本卡统一用期末库存除以写明期间和范围的用量。下面的算例为实习研究设计，所有数字均为假设。
 
 ## I · 判断思路
 

@@ -60,7 +60,7 @@ These are **synthetic teaching examples already present in the skills**. Numbers
 | Combined gross P&L | +3,000 CNY |
 | Net P&L after costs | **+1,800 CNY** |
 
-The output explains that basis strengthens from −50 to −20 CNY/tonne, generating gross P&L of 30 CNY/tonne. Actual work must also verify contract multipliers, quantities and costs. Source: [Basis](skills/commodity-basis/SKILL.md).
+The output explains that basis strengthens from −50 to −20 CNY/tonne, generating gross P&L of 30 CNY/tonne. Actual work must also verify contract multipliers, quantities and costs.
 
 <details>
 <summary>Show the calculation</summary>
@@ -77,7 +77,7 @@ Net P&L = −4,000 + 7,000 − 12 × 100 = +1,800 CNY
 
 **Input**: product price of 7,200 CNY/tonne; feedstock consumption of 3 tonnes per tonne of product; feedstock price of 2,200 CNY/tonne; processing cost of 450 CNY/tonne of product. Only these cash flows are included. Product price then rises by 90 CNY/tonne and feedstock by 50, with processing cost unchanged.
 
-**Output**: the margin proxy falls from **150 to 90 CNY/tonne of product**, a decline of 60. Feedstock changes must be weighted by consumption, rather than comparing price directions alone. Co-production requires additional revenue and cost inputs. Source: [Cross-commodity](skills/commodity-cross-commodity/SKILL.md).
+**Output**: the margin proxy falls from **150 to 90 CNY/tonne of product**, a decline of 60. Feedstock changes must be weighted by consumption, rather than comparing price directions alone. Co-production requires additional revenue and cost inputs.
 
 <details>
 <summary>Show the calculation</summary>
@@ -163,13 +163,6 @@ commodity-skill/
     └── capability-destinations.json   # Original capability mapping
 ```
 
-## Sources and boundaries
+## Boundaries
 
-Each skill retains source references and scope limits. Keep historical teaching parameters separate from current market inputs; verify current rules, contracts and costs as of the research date. State how research conclusions can be tested. Respect the user’s file-editing authorization and obtain consent before creating files or worksheets.
-
-<details>
-<summary>Build provenance and metadata scope</summary>
-
-Metadata for the original guide and 10 domain skills records [cangjie-tools v2.5.0](https://github.com/kangarooking/cangjie-skill) as the generating tool. `BUILD_MANIFEST.json` and `capability-destinations.json` cover those 11 entrypoints. The two balance-sheet workflows are later additions. The tool version is not this library’s version.
-
-</details>
+Keep historical teaching parameters separate from current market inputs; verify current rules, contracts and costs as of the research date. State how research conclusions can be tested. Respect the user’s file-editing authorization and obtain consent before creating files or worksheets.

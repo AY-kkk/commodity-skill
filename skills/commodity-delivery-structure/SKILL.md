@@ -7,13 +7,8 @@ metadata:
   cangjie.capability-id: cap.kunpeng.delivery-structure
   cangjie.capability-revision: 1
   cangjie.bundle-id: bundle.kunpeng-futures
-  cangjie.source-title: 大宗商品研究实习手册
 ---
 # 仓单交割与期限结构研究
-
-## R · 来源
-
-Jerry Ma《期货多空逻辑》（2020 年）第 2 章讲合约曲线，第 10–12 章讲仓单注册、注销、厂库、交割品与交割地，第 13 章把仓单、基差、库存和成本用于跨期研究。对应本项目 PDF 第 15–20、83–114 页。第 11.3 节菜油 OI1905/OI1909 复盘中，作者原先关注仓单到期压力，随后进口预期变化使月差转向。可将它用作检验旧判断的历史案例。具体规则及可交割数量都要匹配所研究的年月。
 
 ## I · 如何判断
 
